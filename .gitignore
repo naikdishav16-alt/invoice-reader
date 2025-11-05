@@ -1,0 +1,19 @@
+# Python / Environment
+venv/
+__pycache__/
+*.pyc
+
+# Node / React
+node_modules/
+build/
+
+# Data outputs
+/Data/invoices/
+/Data/temp/
+
+# Logs
+Logs/
+
+# System files
+.DS_Store
+Thumbs.db
