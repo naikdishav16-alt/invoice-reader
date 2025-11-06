@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+table th, table td {
+  padding: 10px;
+}
+
+table th:hover {
+  background-color: #d1e7ff;
+}
+
+input[type="file"] {
+  padding: 5px;
+  cursor: pointer;
+}
