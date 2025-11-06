@@ -1,11 +1,11 @@
-# 🧮 Invoice Reader
+#  Invoice Reader
 
 A simple full-stack project to read and summarize CSV invoice files.  
 Built using **Flask (Python)** for the backend and **React** for the frontend.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 invoice-reader/
 │
@@ -32,9 +32,9 @@ Copy code
 
 ---
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
-### 1️⃣ Backend
+### Backend
 ```bash
 cd backend
 python -m venv venv
@@ -43,7 +43,7 @@ pip install -r requirements.txt
 python app.py
 Runs on: http://127.0.0.1:5000
 
-2️⃣ Frontend
+2️ Frontend
 bash
 Copy code
 cd frontend
@@ -51,7 +51,7 @@ npm install
 npm start
 Runs on: http://localhost:3000
 
-💡 Features
+ Features
 Drag and drop invoice CSV upload
 
 Invoice summary table (Name, Vendor, Date, Amount)
@@ -60,7 +60,7 @@ Delete all invoices option
 
 Auto-refresh table after upload
 
-🧠 Example CSV
+ Example CSV
 c
 Copy code
 Name,Vendor,Date,Amount
